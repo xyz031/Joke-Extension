@@ -1,0 +1,19 @@
+p{
+    color: blue;
+  
+    border: solid rgb(64,21,16);
+    height: 100px;
+    font-weight: bold;
+    width: 250px;
+    font-size: larger;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 15px;
+
+}
+
+
+*{
+    background-color: rgb(255,215,100);
+   
+}
